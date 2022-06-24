@@ -121,12 +121,11 @@ from percent_population_vaccinated ppv;
 
 
 -- VIEW
-create view v_percent_population_vaccinated as
+create or replace view v_percent_population_vaccinated as
 select t.continent, t.location, t.date_cur, t.population, t.new_vaccinations, 
            sum(t.new_vaccinations) over (partition by t.location order by t.location, t.date_cur) rolling_peaple_vaccinated
     from COVID_DATA t
-    where t.continent is not null
-    order by 2, 3;
+    where t.continent is not null;
     
 select *
 from v_percent_population_vaccinated;
