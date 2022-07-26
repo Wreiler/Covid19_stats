@@ -14,3 +14,15 @@ This project is being implemented as a training project in order to master the b
 Based on the SQL queries presented in the repository, the final dashboard was built
 
 ![image](https://github.com/Wreiler/Covid19_stats/blob/main/covid19_work.png)
+
+
+_____________________________________
+I also created a dashboard for analyzing data on Covid 19 for 2019-2020 using the Microsoft PowerBI tool
+
+#### DASHBOARD
+
+https://app.powerbi.com/groups/me/dashboards/108cdad5-7ede-4266-81d1-8670519e347c
+_____________________________________
+
+![image](https://github.com/Wreiler/Covid19_stats/blob/main/BI_part1.png)
+![image](https://github.com/Wreiler/Covid19_stats/blob/main/BI_part2.png)
