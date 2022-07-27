@@ -24,5 +24,7 @@ I also created a dashboard for analyzing data on Covid 19 for 2019-2020 using th
 https://app.powerbi.com/groups/me/dashboards/108cdad5-7ede-4266-81d1-8670519e347c
 _____________________________________
 
+##### Tools used: Oracle SQL, PL/SQL developer and Microsoft Power BI
+
 ![image](https://github.com/Wreiler/Covid19_stats/blob/main/BI_part1.png)
 ![image](https://github.com/Wreiler/Covid19_stats/blob/main/BI_part2.png)
