@@ -35,6 +35,8 @@ I also created a dashboard for analyzing data on Covid 19 for 2019-2020 using th
 #### DASHBOARD MS POWER BI
 
 https://app.powerbi.com/groups/me/dashboards/108cdad5-7ede-4266-81d1-8670519e347c
+
+Dashboard is presented in PDF format - https://github.com/Wreiler/Covid19_stats/blob/main/cov19_BI.pdf
 _____________________________________
 
 
@@ -48,6 +50,7 @@ Here are the following types of data visualization:
 
 
 ##### Tools used: Oracle SQL, PL/SQL developer and Microsoft Power BI
+
 
 ![image](https://github.com/Wreiler/Covid19_stats/blob/main/BI_part1.png)
 ![image](https://github.com/Wreiler/Covid19_stats/blob/main/BI_part2.png)
