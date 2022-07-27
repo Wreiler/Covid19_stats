@@ -1,2 +1,4 @@
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
+*.xlsx binary diff=exif
+*.pbix diff=pbit
